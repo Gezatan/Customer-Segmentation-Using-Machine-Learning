@@ -1,0 +1,41 @@
+Cluster Insights:
+
+Cluster 0:
+- Number of Customers: 81
+- Most Common Gender: Female
+- Average Age: 42.7
+- Average Annual Income: 55.30
+- Average Spending Score: 49.52
+  > Low income and low spending: price-sensitive or less engaged customers.
+
+Cluster 1:
+- Number of Customers: 39
+- Most Common Gender: Female
+- Average Age: 32.7
+- Average Annual Income: 86.54
+- Average Spending Score: 82.13
+  > Likely VIP customers: high income and high spending.
+
+Cluster 2:
+- Number of Customers: 22
+- Most Common Gender: Female
+- Average Age: 25.3
+- Average Annual Income: 25.73
+- Average Spending Score: 79.36
+  > Bargain hunters: lower income but high spending.
+
+Cluster 3:
+- Number of Customers: 35
+- Most Common Gender: Male
+- Average Age: 41.1
+- Average Annual Income: 88.20
+- Average Spending Score: 17.11
+  > Potential savers: high income but low spending.
+
+Cluster 4:
+- Number of Customers: 23
+- Most Common Gender: Female
+- Average Age: 45.2
+- Average Annual Income: 26.30
+- Average Spending Score: 20.91
+  > Low income and low spending: price-sensitive or less engaged customers.
