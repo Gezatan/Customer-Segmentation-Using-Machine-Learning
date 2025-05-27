@@ -34,11 +34,5 @@ This project applies K-Means clustering to segment customers based on their annu
 - `Annual Income (k$)`
 - `Spending Score (1-100)`
 
-## Example
-
-![Cluster Scatter Plot](example_scatter_plot.png)
-
 ---
-
-Feel free to fork, modify, and use this project for your own customer analytics and segmentation tasks!
 
